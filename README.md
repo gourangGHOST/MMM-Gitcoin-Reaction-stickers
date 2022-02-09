@@ -1,11 +1,12 @@
 <div style="dispaly: inline">
- <img style="height: 150px" src="https://github.com/gourangGHOST/MMM-Gitcoin-Reaction-stickers/raw/main/Gitcoin_hi.gif" />
- <img style="height: 150px" src="https://github.com/gourangGHOST/MMM-Gitcoin-Reaction-stickers/raw/main/Gitcoin_Bye.gif" />
- <img style="height: 150px" src="https://github.com/gourangGHOST/MMM-Gitcoin-Reaction-stickers/raw/main/Gitcoin_take%20care.gif"/>
- <img style="height: 150px" src="https://github.com/gourangGHOST/MMM-Gitcoin-Reaction-stickers/raw/main/Gitcoin_cool.gif" />
- <img style="height: 150px" src="https://github.com/gourangGHOST/MMM-Gitcoin-Reaction-stickers/raw/main/Gitcoin_weird.gif" />
+ <img style="height: 160px" src="https://github.com/gourangGHOST/MMM-Gitcoin-Reaction-stickers/raw/main/Gitcoin_hi.gif" />
+ <img style="height: 160px" src="https://github.com/gourangGHOST/MMM-Gitcoin-Reaction-stickers/raw/main/Gitcoin_Bye.gif" />
+ <img style="height: 160px" src="https://github.com/gourangGHOST/MMM-Gitcoin-Reaction-stickers/raw/main/Gitcoin_take%20care.gif"/>
+ <img style="height: 160px" src="https://github.com/gourangGHOST/MMM-Gitcoin-Reaction-stickers/raw/main/Gitcoin_cool.gif" />
+ <img style="height: 160px" src="https://github.com/gourangGHOST/MMM-Gitcoin-Reaction-stickers/raw/main/Gitcoin_weird.gif" />
  
 </div>
+
 # Gitcoin sticker contest
 
 <h2>GITCOIN ANIMATED STICKERS</h2>
